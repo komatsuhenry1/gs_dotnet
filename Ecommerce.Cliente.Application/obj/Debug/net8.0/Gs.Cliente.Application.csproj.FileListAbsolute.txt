@@ -1,0 +1,16 @@
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\bin\Debug\net8.0\Gs.Cliente.Application.deps.json
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\bin\Debug\net8.0\Gs.Cliente.Application.dll
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\bin\Debug\net8.0\Gs.Cliente.Application.pdb
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\bin\Debug\net8.0\Gs.Cliente.Domain.dll
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\bin\Debug\net8.0\Gs.Cliente.Domain.pdb
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\Gs.Cliente.Application.csproj.AssemblyReference.cache
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\Gs.Cliente.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\Gs.Cliente.Application.AssemblyInfoInputs.cache
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\Gs.Cliente.Application.AssemblyInfo.cs
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\Gs.Cliente.Application.csproj.CoreCompileInputs.cache
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\Gs.Cliente.Application.sourcelink.json
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\Gs.Clien.119F588B.Up2Date
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\Gs.Cliente.Application.dll
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\refint\Gs.Cliente.Application.dll
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\Gs.Cliente.Application.pdb
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Application\obj\Debug\net8.0\ref\Gs.Cliente.Application.dll

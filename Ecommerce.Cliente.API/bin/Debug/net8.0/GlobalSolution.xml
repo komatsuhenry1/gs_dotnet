@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GlobalSolution</name>
+    </assembly>
+    <members>
+        <member name="M:Ecommerce.Cliente.API.Controllers.ClienteController.Get">
+            <summary>
+            Obter todos os clientes
+            </summary>
+            <remarks>
+            Obter uma lista com todos os clientes cadastrados, através do método GET.
+            </remarks>
+            <param name="getClientes">Obter Todos Clientes</param>
+            <returns></returns>
+        </member>
+        <member name="M:Ecommerce.Cliente.API.Controllers.ClienteController.GetPorId(System.Int32)">
+            <summary>
+            Obter um cliente
+            </summary>
+            <remarks>
+            Obter um cliente especifico cadastrado, através do método GET.
+            </remarks>
+            <param name="getByIdClientes">Obter um Cliente</param>
+            <returns></returns>
+        </member>
+        <member name="M:Ecommerce.Cliente.API.Controllers.ClienteController.Post(Ecommerce.Cliente.Application.Dtos.ClienteDto)">
+            <summary>
+            Cadastrar um cliente
+            </summary>
+            <remarks>
+            Cadastrar um cliente, através do método POST
+            </remarks>
+            <param name="PostClient">Cadastrar um cliente</param>
+            <returns></returns>
+        </member>
+        <member name="M:Ecommerce.Cliente.API.Controllers.ClienteController.Put(System.Int32,Ecommerce.Cliente.Application.Dtos.ClienteDto)">
+            <summary>
+            Atualizar um cliente
+            </summary>
+            <remarks>
+            Atualizar alguma ou todas as informações de um cliente, através do método PUT
+            </remarks>
+            <param name="PostClient">Atualizar um cliente</param>
+            <returns></returns>
+        </member>
+        <member name="M:Ecommerce.Cliente.API.Controllers.ClienteController.Delete(System.Int32)">
+            <summary>
+            Deletar um cliente
+            </summary>
+            <remarks>
+            Deletar um cliente cadastrado, através do método DELETE
+            </remarks>
+            <param name="PostClient">Deletar um cliente</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

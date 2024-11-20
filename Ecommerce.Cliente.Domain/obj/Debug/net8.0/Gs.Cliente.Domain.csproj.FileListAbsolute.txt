@@ -1,0 +1,13 @@
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\bin\Debug\net8.0\Gs.Cliente.Domain.deps.json
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\bin\Debug\net8.0\Gs.Cliente.Domain.dll
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\bin\Debug\net8.0\Gs.Cliente.Domain.pdb
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Gs.Cliente.Domain.csproj.AssemblyReference.cache
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Gs.Cliente.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Gs.Cliente.Domain.AssemblyInfoInputs.cache
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Gs.Cliente.Domain.AssemblyInfo.cs
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Gs.Cliente.Domain.csproj.CoreCompileInputs.cache
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Gs.Cliente.Domain.sourcelink.json
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Gs.Cliente.Domain.dll
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\refint\Gs.Cliente.Domain.dll
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Gs.Cliente.Domain.pdb
+C:\Users\henry\dev_scion\GlobalSolution.Net\Ecommerce.Cliente.Domain\obj\Debug\net8.0\ref\Gs.Cliente.Domain.dll
